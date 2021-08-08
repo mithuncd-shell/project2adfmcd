@@ -14,7 +14,8 @@
 				"fileName": "data_file.xlsx",
 				"folderPath": "2021",
 				"fileSystem": "sensordata"
-			}
+			},
+			"firstRowAsHeader": true
 		},
 		"schema": [
 			{
